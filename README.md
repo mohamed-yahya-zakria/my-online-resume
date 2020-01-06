@@ -1,3 +1,3 @@
 # Online Resume
 
-Visit https://mohamed.yahya.zakria.me
+Visit http://mohamed-yahya.com/
